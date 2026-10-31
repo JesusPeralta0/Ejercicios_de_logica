@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Claves y variables de entorno (NUNCA subir)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
